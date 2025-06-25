@@ -1,0 +1,1 @@
+document.getElementById('themeSelect').addEventListener('change', function () { document.body.className = this.value; });
